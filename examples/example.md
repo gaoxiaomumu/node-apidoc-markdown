@@ -19,6 +19,14 @@ Compare Verison 0.3.0 with 0.2.0 and you will see the green markers with new ite
 
 ### Parameters
 
+#### Headers
+
+| Name    | Type      | Description                          |
+|---------|-----------|--------------------------------------|
+| id			| String			|  The Users-ID.							|
+
+#### Query
+
 | Name    | Type      | Description                          |
 |---------|-----------|--------------------------------------|
 | id			| String			|  The Users-ID.							|
